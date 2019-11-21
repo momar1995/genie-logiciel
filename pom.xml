@@ -3,7 +3,7 @@
   <groupId>sn.projet</groupId>
   <artifactId>genie-log</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <plugin> <groupId>org.apache.maven.plugins</groupId> <artifactId>maven-compiler-plugin</artifactId> <version>3.8.0</version> </plugin>
+  
   <dependencies>
   <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependency>
